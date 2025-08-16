@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134101287874",
+    "project_id": "ziyajuly-88b97",
+    "storage_bucket": "ziyajuly-88b97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134101287874:android:c3cc2690a74a16502b0c5b",
+        "android_client_info": {
+          "package_name": "com.example.ziya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCi-9lHPtaucgy2ha4Xh6iv2JTyTtbwiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
